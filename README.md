@@ -1,14 +1,14 @@
 # My 1st Repository
 This is my first data project.  Please enjoy
 
-##Contents
+## Contents
 1. Data set for all software based artworks in the museum
 2. Data is in .json format
 
-###Rights
+### Rights
 -Open to the public under the open source license
 
-####Attributions
+#### Attributions
 -Dataset was created by Laura Larkin
 
 ***
